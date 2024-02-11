@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marco.👋</h1>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Schr%C3%B6der-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-schr%C3%B6der-14041a1b0/)](https://www.linkedin.com/company/letthedataconfess)
+[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Schr%C3%B6der-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-schr%C3%B6der-14041a1b0/)](https://www.linkedin.com/in/marco-schr%C3%B6der-14041a1b0/)
 
 ---
 
