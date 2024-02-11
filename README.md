@@ -1,14 +1,9 @@
 <h1 align="center">Hi, I'm Marco.👋</h1>
 
 
-<h5 align="center"><i>This is how you can approach me.</i></h5>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Marco%20Schr%C3%B6der-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-schr%C3%B6der-14041a1b0/)](https://www.linkedin.com/company/letthedataconfess)
 
-[![Mail Badge](https://img.shields.io/badge/-Marco Schröder-c14438?style=flat&logo=Gmail&logoColor=white&link=marcoschroeder2402@gmail.com)](marcoschroeder2402@gmail.com)
-
 ---
-</br>
 
 ### Projects
 - 
