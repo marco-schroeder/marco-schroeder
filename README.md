@@ -31,7 +31,3 @@
 ### Cloud Providers
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/aws/aws.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png"></code>
-
-### GitHub Stats
-
-![Marco's github stats](https://github-readme-stats.vercel.app/api?username=marco-schroeder&theme=tokyonight&show_icons=true)
