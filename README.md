@@ -1,52 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Marco.👋</h1>
 
-<!--
-**marco-schroeder/marco-schroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h5 align="center"><i>This is how you can approach me.</i></h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Marco%20Schr%C3%B6der-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-schr%C3%B6der-14041a1b0/)](https://www.linkedin.com/company/letthedataconfess)
 
-<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, we are the team of Let The Data Confess Pvt. Ltd.</h1>
-
-<h3 align="center">Understand | Learn | Code | Implement</h3>
-
-<!--
-**letthedataconfess/letthedataconfess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<h5 align="center"><i>(You can approach us from any social-media platforms below)</i></h5>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Let_The_Data_Confess-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/letthedataconfess)](https://www.linkedin.com/company/letthedataconfess)
-[![Website Badge](https://img.shields.io/badge/-Let_The_Data_Confess-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.letthedataconfess.com/)](https://www.letthedataconfess.com/)
-[![Twitter Badge](https://img.shields.io/badge/-@letdataconfess-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/letdataconfess)](https://twitter.com/letdataconfess)
-[![Medium Badge](https://img.shields.io/badge/-Let_The_Data_Confess-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://medium.com/@letthedataconfess)](https://medium.com/@letthedataconfess)
-[![Mail Badge](https://img.shields.io/badge/-letthedataconfess-c14438?style=flat&logo=Gmail&logoColor=white&link=info@letthedataconfess.com)](info@letthedataconfess.com)
-[![Instagram Badge](https://img.shields.io/badge/Let_The_Data_Confess-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/letthedataconfess/)
+[![Mail Badge](https://img.shields.io/badge/-Marco Schröder-c14438?style=flat&logo=Gmail&logoColor=white&link=marcoschroeder2402@gmail.com)](marcoschroeder2402@gmail.com)
 
 ---
 </br>
-<img align="right" alt="webp" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6_w200.webp" />
 
-- 🔭 We are currently working on Machine Learning, Data Science, Deep Learning, NLP, CV related projects to bridge the gap between industry    requirements and AI education.
-
-- 💬 Ask us about Implementing hands on projects related to Data Science, Machine Learning, Deep Learining, Computer Vision and NLP
-
-- ⚡ Fun fact: If you torture the data good enough it will confess!!
-
-### Tutorials Repos
-- [Toxic comments classification using Bert](https://github.com/letthedataconfess/Toxic-comments-classification)
-- [Image processing using open-cv](https://github.com/letthedataconfess/Image-Pre-processing-using-OpenCV)
-- [Sentiment analysis](https://github.com/letthedataconfess/Sentiment-Analysis)
-- [Developing machine learning models on Azure Cloud](https://github.com/letthedataconfess/Machine-learning-model-development-on-Microsoft-Azure)
-
+### Projects
+- 
 ---
 
 ## Tools, Technologies and Languages:
