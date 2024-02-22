@@ -28,9 +28,6 @@
 
 ### Operating Systems
 <code><img height="30" src="https://github.com/drag-and-publish/operating-system-logos/blob/master/src/48x48/LIN.png"></code>
-<code><img height="30" src="https://github.com/drag-and-publish/operating-system-logos/blob/master/src/48x48/UBT.png"></code>
-<code><img height="30" src="https://github.com/drag-and-publish/operating-system-logos/blob/master/src/48x48/DEB.png"></code>
-<code><img height="30" src="https://github.com/drag-and-publish/operating-system-logos/blob/master/src/48x48/SSE.png"></code>
 <code><img height="30" src="https://github.com/drag-and-publish/operating-system-logos/blob/master/src/48x48/MAC.png"></code>
 <code><img height="30" src="https://github.com/drag-and-publish/operating-system-logos/blob/master/src/48x48/WIN.png"></code>
 
