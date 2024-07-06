@@ -25,6 +25,7 @@
 ### IDEs
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/intellij-idea/intellij-idea.png"></code>
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/pycharm/pycharm.png"></code>
+<code><img height="30" src="ttps://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ### Operating Systems
 <code><img height="30" src="https://github.com/drag-and-publish/operating-system-logos/blob/master/src/48x48/LIN.png"></code>
